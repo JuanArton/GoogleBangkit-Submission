@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplikasi Github</string>
+    <string name="github">Github</string>
+    <string name="username">nama pengguna</string>
+    <string name="job">pekerjaan</string>
+    <string name="name">Nama</string>
+    <string name="following">Mengikuti</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="repository">Repositori</string>
+    <string name="juan_arton_masheli">Juan Arton Masheli</string>
+    <string name="juanarton177_protonmail_com">juanarton177@protonmail.com</string>
+    <string name="https_www_dicoding_com_users_juanarton">https://www.dicoding.com/users/juanarton</string>
+    <string name="https_github_com_juanarton">https://github.com/JuanArton</string>
+    <string name="followers">Pengikut</string>
+    <string name="profil">Profilku</string>
+    <string name="logo">Logo</string>
+</resources>
