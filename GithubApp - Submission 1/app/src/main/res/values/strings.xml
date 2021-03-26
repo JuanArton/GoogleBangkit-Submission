@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="github">Github</string>
+    <string name="username">username</string>
+    <string name="job">job</string>
+    <string name="name">Name</string>
+    <string name="following">Following</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="visit_profile">Visit Profile</string>
+    <string name="visit_repository">Visit Repository</string>
+    <string name="juan_arton_masheli">Juan Arton Masheli</string>
+    <string name="juanarton177_protonmail_com">juanarton177@protonmail.com</string>
+    <string name="https_www_dicoding_com_users_juanarton">https://www.dicoding.com/users/juanarton</string>
+    <string name="https_github_com_juanarton">https://github.com/JuanArton</string>
+
+    <string-array name="data_nama">
+        <item>牛さん</item>
+        <item>Misairu G</item>
+        <item>Adam Geitgey</item>
+        <item>Davis E. King</item>
+        <item>linrunner</item>
+        <item>Robin Lange</item>
+        <item>Hennadii Chernyshchyk</item>
+        <item>yeyushengfan258</item>
+        <item>Oguzhan Inan</item>
+        <item>Adrian Rosebrock</item>
+    </string-array>
+
+    <string-array name="data_username">
+        <item>wayou</item>
+        <item>Misairu-G</item>
+        <item>ageitgey</item>
+        <item>davisking</item>
+        <item>linrunner</item>
+        <item>Askannz</item>
+        <item>Shatur95</item>
+        <item>yeyushengfan258</item>
+        <item>oguzhaninan</item>
+        <item>jrosebr1</item>
+    </string-array>
+
+    <string-array name="data_avatar">
+        <item>wayou</item>
+        <item>misairu</item>
+        <item>agey</item>
+        <item>dking</item>
+        <item>lin</item>
+        <item>rlange</item>
+        <item>hennadii</item>
+        <item>yy</item>
+        <item>og</item>
+        <item>jr</item>
+    </string-array>
+
+    <string-array name="data_followers">
+        <item>10</item>
+        <item>791</item>
+        <item>3.2k</item>
+        <item>1.3k</item>
+        <item>53</item>
+        <item>35</item>
+        <item>27</item>
+        <item>100</item>
+        <item>589</item>
+        <item>2.9k</item>
+    </string-array>
+
+    <string-array name="data_following">
+        <item>2</item>
+        <item>741</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+        <item>34</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="data_company">
+        <item>Tencent</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>See-Mode Technologies</item>
+        <item>-</item>
+        <item>-</item>
+        <item>Binalyze</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="data_location">
+        <item>Chengdu, China</item>
+        <item>-</item>
+        <item>Various Place</item>
+        <item>Boston, Massachusetts</item>
+        <item>Germany</item>
+        <item>Melbourne</item>
+        <item>-</item>
+        <item>-</item>
+        <item>Trabzon, Turkey</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="data_repository">
+        <item>https://github.com/wayou?tab=repositories</item>
+        <item>https://github.com/Misairu-G?tab=repositories</item>
+        <item>https://github.com/ageitgey?tab=repositories</item>
+        <item>https://github.com/davisking?tab=repositories</item>
+        <item>https://github.com/linrunner?tab=repositories</item>
+        <item>https://github.com/Askannz?tab=repositories</item>
+        <item>https://github.com/Shatur95?tab=repositories</item>
+        <item>https://github.com/yeyushengfan258?tab=repositories</item>
+        <item>https://github.com/oguzhaninan?tab=repositories</item>
+        <item>https://github.com/jrosebr1?tab=repositories</item>
+    </string-array>
+
+    <string-array name="data_profile">
+        <item>https://github.com/wayou</item>
+        <item>https://github.com/Misairu-G</item>
+        <item>https://github.com/ageitgey</item>
+        <item>https://github.com/davisking</item>
+        <item>https://github.com/linrunner</item>
+        <item>https://github.com/Askannz</item>
+        <item>https://github.com/Shatur95</item>
+        <item>https://github.com/yeyushengfan258</item>
+        <item>https://github.com/oguzhaninan</item>
+        <item>https://github.com/jrosebr1</item>
+    </string-array>
+
+</resources>
