@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="github">Github</string>
+    <string name="username">username</string>
+    <string name="job">job</string>
+    <string name="name">Name</string>
+    <string name="following">Following</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="juan_arton_masheli">Juan Arton Masheli</string>
+    <string name="juanarton177_protonmail_com">juanarton177@protonmail.com</string>
+    <string name="https_www_dicoding_com_users_juanarton">https://www.dicoding.com/users/juanarton</string>
+    <string name="https_github_com_juanarton">https://github.com/JuanArton</string>
+    <string name="followers">Followers</string>
+    <string name="profil">My Profile</string>
+    <string name="logo">Logo</string>
+    <string name="message">Let\'s find a new user!</string>
+    <string name="favorite">Favorite User</string>
+    <string name="notifsetting">Notification Setting</string>
+    <string name="reminder">Daily Reminder</string>
+    <string name="notifstaton">Daily Reminder is on</string>
+    <string name="notifstatoff">Daily Reminder is off</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="git_favorite_user">Git Favorite User</string>
+</resources>
